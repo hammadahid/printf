@@ -236,5 +236,5 @@ All the above options work well together.
 
 ### Authors &copy;
 
-- Tinsaye Simeneh,
--  David Musau
+- Abdulsalam Opeyemi,
+- Segilade Adebanwo
